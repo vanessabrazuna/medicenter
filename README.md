@@ -1,5 +1,5 @@
 # B7Web-Medicenter
-Página desenvolvida baseada do site Medicenter. Exercitando  HTML 5, CSS3 com FlexBox e JavaScript.
+Página desenvolvida baseada do site Medicenter. Exercitando  HTML 5, CSS3 com FlexBox e JavaScript com LGPD.
 
 
 # Tecnologias
@@ -8,3 +8,4 @@ Página desenvolvida baseada do site Medicenter. Exercitando  HTML 5, CSS3 com F
 - CSS3 
 - Flexbox
 - JavaScript
+- LGPD
