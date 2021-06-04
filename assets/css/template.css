@@ -34,7 +34,16 @@
     color: #fff;
     /* quando passa o mouse aparece a mãozinha */
     cursor: pointer;
-    padding: 10px 30px;
+    padding: 8px 16px;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    
 }
 
 .lgpd button:hover {
@@ -688,10 +697,7 @@ input {
     }
 
     .lgpd button {
-        border-radius: 3px;
-        padding: 8px 16px;
         width: 100%;
-        align-items: center;
     }
 
     #banner {
