@@ -2,6 +2,47 @@
     font-family: Helvetica, arial, sans-serif;
 }
 
+.lgpd {
+    /* fixa na tela */
+    position: fixed;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    color: #727272;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 1px 1px 5px #888888;
+}
+
+.lgpd a {
+    color: #727272;
+    text-decoration: #fff;
+}
+
+.lgpd a:hover {
+    background-color: #fff;
+    color: #42b3e4;
+}
+
+.lgpd button {
+    background-color: #42b3e4;
+    border: 0;
+    color: #fff;
+    /* quando passa o mouse aparece a mãozinha */
+    cursor: pointer;
+    padding: 10px 30px;
+}
+
+.lgpd button:hover {
+    border: 1px solid #72727248;
+    background-color: #fff;
+    color: #42b3e4;
+}
+
 body {
     /* tira margin e o padding padrão, pra assim ser possível colocar imagens de ponta a ponta da tela */
     margin: 0px;
@@ -638,6 +679,28 @@ input {
 }
 
 @media (max-width: 600px) {
+
+    .lgpd {
+        flex-direction: column;
+        /* fixa na tela */
+        position: fixed;
+        left: 15px;
+        right: 85px;
+        bottom: 10px;
+        padding: 15px;
+        background-color: #fff;
+        color: #727272;
+        font-size: 12px;
+        box-shadow: 1px 1px 5px #888888;
+        
+    }
+
+    .lgpd button {
+        border-radius: 2px;
+        margin-top: 15px;
+        padding: 3px 130px;
+        align-items: center;
+    }
 
     #banner {
         height: 430px;
