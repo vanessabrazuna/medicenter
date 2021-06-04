@@ -682,12 +682,11 @@ input {
 
     .lgpd {
         flex-direction: column;
-        padding: 10px;
     }
 
     .lgpd button {
         border-radius: 2px;
-        padding: 10px 200px;
+        padding: 10px 250px;
         margin-top: 15px;
         align-items: center;
     }
