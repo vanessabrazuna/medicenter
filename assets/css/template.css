@@ -698,7 +698,7 @@ input {
 
     .lgpd button {
         width: 200%;
-        margin-top: 10px;
+        padding: 16px;
     }
 
     #banner {
