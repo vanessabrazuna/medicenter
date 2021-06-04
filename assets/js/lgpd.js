@@ -11,7 +11,7 @@ let lgpdHtml = `
 
         <div class="lgpd--right">
 
-            <button>OK</button>
+            <button>PROSSEGUIR</button>
 
         </div>
 
