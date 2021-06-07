@@ -697,7 +697,7 @@ input {
     }
 
     .lgpd button {
-        width: 150%;
+        width: 180%;
         padding: 7px;
     }
 
@@ -782,7 +782,7 @@ input {
 
     .contact_text {
         font-size: 15px;
-        margin: 3px 30px 40px 10px; /* margin: 5px 30px 40px 30px */
+        margin: 3px 10px 20px 10px; /* margin: 5px 30px 40px 30px */
     }
 
     span {
