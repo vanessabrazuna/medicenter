@@ -671,12 +671,10 @@ footer .widget_body li::before {
 .menu_m {
     width: 40px;
     height: 40px;
-    /* position: fixed */
     top: 25px;   
-    margin-top: 70px; /* margin-top: 40px; */
+    margin-top: 70px;
     margin-bottom: 40px;
     margin-right: 20px;
-    /* incluido */
     margin-left: 50px;
 }
 
@@ -699,8 +697,8 @@ input {
     }
 
     .lgpd button {
-        width: 100%;
-        padding: 13px;
+        width: 150%;
+        padding: 7px;
     }
 
     #banner {
@@ -783,8 +781,8 @@ input {
     }
 
     .contact_text {
-        font-size: 17px;
-        margin: 3px 30px 50px 30px; /* margin: 5px 30px 40px 30px */
+        font-size: 15px;
+        margin: 3px 30px 40px 10px; /* margin: 5px 30px 40px 30px */
     }
 
     span {
