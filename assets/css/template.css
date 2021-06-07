@@ -675,7 +675,7 @@ footer .widget_body li::before {
     margin-top: 70px;
     margin-bottom: 40px;
     margin-right: 20px;
-    margin-left: 50px;
+    margin-left: 60px;
 }
 
 .menu_mobile {
@@ -697,8 +697,8 @@ input {
     }
 
     .lgpd button {
-        width: 250%;
-        padding: 10px 60px 10px 30px;
+        width: 200%;
+        padding: 10px 60px 10px 50px;
     }
 
     #banner {
