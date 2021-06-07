@@ -671,11 +671,13 @@ footer .widget_body li::before {
 .menu_m {
     width: 40px;
     height: 40px;
-    position: fixed;
+    /* position: fixed */
     top: 25px;   
-    margin-top: 40px;
+    margin-top: 70px; /* margin-top: 40px; */
     margin-bottom: 40px;
     margin-right: 20px;
+    /* incluido */
+    margin-left: 50px;
 }
 
 .menu_mobile {
@@ -697,8 +699,8 @@ input {
     }
 
     .lgpd button {
-        width: 200%;
-        padding: 16px;
+        width: 100%;
+        padding: 13px;
     }
 
     #banner {
@@ -782,7 +784,7 @@ input {
 
     .contact_text {
         font-size: 17px;
-        margin: 5px 30px 40px 30px;
+        margin: 3px 30px 50px 30px; /* margin: 5px 30px 40px 30px */
     }
 
     span {
