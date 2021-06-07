@@ -692,14 +692,14 @@ input {
     .lgpd {
         flex-direction: column;
         justify-content: center;
-        padding: 16px 16px 3px 16px;
-        margin-bottom: 5px;
+        padding: 16px 16px 7px 16px;
+        margin-bottom: 10px;
         font-size: 12px;
     }
 
     .lgpd button {
         width: 100%;
-        padding: 10px 90px 10px 90px;
+        padding: 10px 120px 10px 120px;
     }
 
     #banner {
